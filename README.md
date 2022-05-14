@@ -22,4 +22,6 @@ User stories/Use cases:
 - User should see how good he/she did compare to others that have taken the quiz, "You were better than 60% of all quizzers"
 
 Showcase of CLI Results:
+
+
 ![image](https://user-images.githubusercontent.com/43804859/168429728-05eea587-3a4a-44a5-8151-feea6c917820.png)
