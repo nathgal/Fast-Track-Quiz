@@ -25,8 +25,8 @@ var QuizDataset = map[int][3]Quiz{
 			CorrectAnswer: 1,
 		},
 		Quiz{
-			Question:      "How many Spider-man films were there post 2000?",
-			AnswersList:   [3]string{"3", "4", "5"},
+			Question:      "How many published films with Spider-man were there since 2000?",
+			AnswersList:   [3]string{"8", "11", "14"},
 			CorrectAnswer: 2,
 		},
 	},
